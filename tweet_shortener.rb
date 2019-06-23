@@ -41,7 +41,7 @@ def selective_tweet_shortener(tweets)
     return tweet
   end
 end
-end
+
 
 
 
