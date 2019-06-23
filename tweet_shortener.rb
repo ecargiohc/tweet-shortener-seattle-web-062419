@@ -23,6 +23,7 @@ def word_substituter(tweets)
   end
   tweet.join(" ")
 end
+
 # require "pry"
 def bulk_tweet_shortener(tweets)
   tweets.each do |word| 
