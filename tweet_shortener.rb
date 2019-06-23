@@ -34,7 +34,7 @@ end
 require "pry"
 def selective_tweet_shortener(tweets)
   # binding.pry
-  tweet = tweets.split
+  # tweet = tweets.split
   if tweet.length > 140 
     tweet.each do |word| 
     word_substituter(word)
