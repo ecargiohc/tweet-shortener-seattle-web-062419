@@ -40,9 +40,6 @@ def selective_tweet_shortener(tweets)
   else 
     return tweet
   end
-  else 
-    return tweet
-  end
 end
 
 
