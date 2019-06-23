@@ -33,8 +33,6 @@ end
 end
 require "pry"
 def selective_tweet_shortener(tweets)
-  # binding.pry
-  # tweet = tweets.split
   if tweet.length > 140 
     word_substituter(word)
   else 
